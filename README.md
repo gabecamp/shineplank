@@ -1,4 +1,16 @@
+This is a repost of the early beta firmware for the glowdeck to try to get community help in improving the glowdeck
+i did not write this initial code vut want to get it out to the public so we glowdeck users can have a funcioning product
+
+
+
+
+
+
+
+
+
 Glowdeck Beta Firmware
+
 ======================
 by Justin Kaufman | PLSCO, Inc.
 
