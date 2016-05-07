@@ -16,7 +16,6 @@ by Justin Kaufman | PLSCO, Inc.
 
 This is the place where you can track and contribute to the latest source code for the Glowdeck Beta development (dev) board. If you are just joining us, here is what you should do to get your bearings:
 
-1. Email your github username (or create one) to justin@glowdeck.com to be added as a collaborator to this repo
 2. Download/install the Glowduino IDE from <http://j.mp/glowdev>
 3. Clone the Glowdeck_Beta source code repository to your computer
 4. Read the Wiki for upload instructions*, build information, and issue log.
